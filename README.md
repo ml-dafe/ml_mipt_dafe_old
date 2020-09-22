@@ -24,5 +24,5 @@ docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook
 > Close port 4545 on your local machine while container is running  
 
 ### <img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/docker.png' height="20px" width="20px" align="top"> Вариант 3
-- Переходим по ссылке [](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+- Переходим в [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 - Использовать по назначению
