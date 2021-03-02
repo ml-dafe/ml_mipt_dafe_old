@@ -1,8 +1,8 @@
 ## Материалы
 
-###Семинар Seq2Seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q-q-3C2hvRyR2Z4zszrK6sEylW6HCaTY?authuser=1)
+### Семинар Seq2Seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q-q-3C2hvRyR2Z4zszrK6sEylW6HCaTY?authuser=1)
 
-###Семинар Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOisdoXSXmgNiLj2tGym0mbwbp6GhnHu?authuser=1)
+### Семинар Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOisdoXSXmgNiLj2tGym0mbwbp6GhnHu?authuser=1)
 
 ### More on RNN
 * Distill.pub post on attention and augmentations for RNN - [post](https://distill.pub/2016/augmented-rnns/)
