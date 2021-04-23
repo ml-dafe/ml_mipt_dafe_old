@@ -1,0 +1,13 @@
+catalyst
+torch
+torchvision
+matplotlib
+seaborn
+scikit-learn
+mnist
+scikit-image
+ipywidgets
+jupyterlab
+albumentations
+tensorboard
+tqdm
