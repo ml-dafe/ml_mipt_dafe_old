@@ -2,7 +2,7 @@
 
 ## Practice 3. Object Detection, Image Segmentation
 
-[![Open In Colab](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe_major/blob/master/part2_CV_4/seminar_3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe_major/blob/master/part2_CV_4/seminar_3.ipynb)
 
 Open `seminar_3.ipynb` and follow the instructions here.
 
@@ -15,7 +15,7 @@ Open `seminar_3.ipynb` and follow the instructions here.
 
 ### Practice 4. AutoEncoders
 
-[![Open In Colab](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe_major/blob/master/part2_CV_4/seminar_4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-dafe/ml_mipt_dafe_major/blob/master/part2_CV_4/seminar_4.ipynb)
 
 Open `seminar_4.ipynb` and follow the instructions here.
 
